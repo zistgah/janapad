@@ -1,0 +1,381 @@
+{
+  "generator": "matba studio",
+  "book": "Humanesque Mahajanapad",
+  "cover": {
+    "file": "posters/cover.png",
+    "sha256": "5b9faa5447d1c64baedf18711345ab3345c7f9af14060e2e4bb3f63a9e8cc45f"
+  },
+  "figures": [
+    {
+      "chapter": "ch-01",
+      "slug": "the-humanesque-proposition",
+      "title": "The Humanesque Proposition",
+      "file": "posters/the-humanesque-proposition.png",
+      "sha256": "c5c7a7dd781cbfaee3329f85bd89f36f848efa6508bb9a9919d5cccbe6a988bf"
+    },
+    {
+      "chapter": "ch-02",
+      "slug": "from-dukedom-to-mahajanapad",
+      "title": "From Dukedom to Mahajanapad",
+      "file": "posters/from-dukedom-to-mahajanapad.png",
+      "sha256": "58d6598af5ddcddf7b3273239599d9c6622162105289a80db3fdd6a05be19d5d"
+    },
+    {
+      "chapter": "ch-03",
+      "slug": "janapada-to-mahajanapada",
+      "title": "Janapada to Mahajanapada",
+      "file": "posters/janapada-to-mahajanapada.png",
+      "sha256": "f066228e24006fd3b72004c51566bb19a7b291fecbb12d2708331b9b22dc0eaa"
+    },
+    {
+      "chapter": "ch-04",
+      "slug": "the-mahajanapad",
+      "title": "The Mahajanapad",
+      "file": "posters/the-mahajanapad.png",
+      "sha256": "0810743516b26c1785267624e02ae66c0d7185e6acd6b119610da83a9c86316e"
+    },
+    {
+      "chapter": "ch-05",
+      "slug": "the-journey-continues",
+      "title": "The Journey Continues",
+      "file": "posters/the-journey-continues.png",
+      "sha256": "77001154cb41c91440dacc2d96050f185d757637de0fcd4c6ba56ff7d26d22a6"
+    },
+    {
+      "chapter": "ch-06",
+      "slug": "humanesque-mahajanapad",
+      "title": "Humanesque Mahajanapad",
+      "file": "posters/humanesque-mahajanapad.png",
+      "sha256": "b0d99fec2e9a09d9a48fbb0f06962547e245df271c9864cfc2b22eb9c5e45872"
+    },
+    {
+      "chapter": "ch-07",
+      "slug": "the-enabled-individual",
+      "title": "The Enabled Individual",
+      "file": "posters/the-enabled-individual.png",
+      "sha256": "c06777174a0dbe57ff2b01fb6b234f0bdc5c98c020fef1cd23fa634308eff641"
+    },
+    {
+      "chapter": "ch-08",
+      "slug": "the-architecture-of-agency",
+      "title": "The Architecture of Agency",
+      "file": "posters/the-architecture-of-agency.png",
+      "sha256": "32dfdba2931e7e1194c5e4b56ec941298611162553799706c29d211b8ebc182e"
+    },
+    {
+      "chapter": "ch-09",
+      "slug": "pedler",
+      "title": "PEDLER",
+      "file": "posters/pedler.png",
+      "sha256": "aaff45012bf9db4a6e070f1e6ce1a83de03f28980d01a74ef149bebba0d37eef"
+    },
+    {
+      "chapter": "ch-10",
+      "slug": "the-pedler-walk",
+      "title": "The PEDLER Walk",
+      "file": "posters/the-pedler-walk.png",
+      "sha256": "1d2e343c755d21ce0efa7ce5daaee14493b9ddc2b92931ad645461c00d7078f1"
+    },
+    {
+      "chapter": "ch-11",
+      "slug": "inclination",
+      "title": "Inclination",
+      "file": "posters/inclination.png",
+      "sha256": "d169b850f9a673b922d8d3bdeac8fa3de47cd47816554568fef7feca46d8b901"
+    },
+    {
+      "chapter": "ch-12",
+      "slug": "pre-walk",
+      "title": "Pre-Walk",
+      "file": "posters/pre-walk.png",
+      "sha256": "0dabc3f2d448872cce6e388fa4e011d62a047710c63a90f29a0c24e3775f43a0"
+    },
+    {
+      "chapter": "ch-13",
+      "slug": "pedler-and-deterministic-time",
+      "title": "PEDLER and Deterministic Time",
+      "file": "posters/pedler-and-deterministic-time.png",
+      "sha256": "e7aa4b88ba1fb2a75b9198c0b5f4546977f15e5116c378278990b4f4acf68a18"
+    },
+    {
+      "chapter": "ch-14",
+      "slug": "pedler-pilots",
+      "title": "PEDLER Pilots",
+      "file": "posters/pedler-pilots.png",
+      "sha256": "8c48453d5def6f639f9bbd71dab268074776bc7fa4e8420228d6e3efdc34b071"
+    },
+    {
+      "chapter": "ch-15",
+      "slug": "human-machine-co-cognition",
+      "title": "Human–Machine Co-Cognition",
+      "file": "posters/human-machine-co-cognition.png",
+      "sha256": "414a30d91c2b54f8156a5addce37a0fdcf4702088364cb3b82b9e4049b9e7b49"
+    },
+    {
+      "chapter": "ch-16",
+      "slug": "time-as-configuration",
+      "title": "Time as Configuration",
+      "file": "posters/time-as-configuration.png",
+      "sha256": "b259890d1e4f776b4e4ed22417e44d9b0b5d6833b33e7f10b648213a90660220"
+    },
+    {
+      "chapter": "ch-17",
+      "slug": "consciousness-and-time",
+      "title": "Consciousness and Time",
+      "file": "posters/consciousness-and-time.png",
+      "sha256": "4251861f16887b19dec1d809febb39762f310659abd53c9516103d48be6feb49"
+    },
+    {
+      "chapter": "ch-18",
+      "slug": "time-dilation",
+      "title": "Time Dilation",
+      "file": "posters/time-dilation.png",
+      "sha256": "a79041fbbd1e3b3c1e46a0d287a81ce4220a126716f86175bf361fdc263fbaa3"
+    },
+    {
+      "chapter": "ch-19",
+      "slug": "gravity-and-the-temporal-realm",
+      "title": "Gravity and the Temporal Realm",
+      "file": "posters/gravity-and-the-temporal-realm.png",
+      "sha256": "f6c4db400f796789ad6a5e6ce501b575a3821b6ee2957e165d4835e9f538047e"
+    },
+    {
+      "chapter": "ch-20",
+      "slug": "event-horizon",
+      "title": "Event Horizon",
+      "file": "posters/event-horizon.png",
+      "sha256": "f79786fcc57ba5a1babfd3413c3e0404af031cd4c26f0f7938bde3b9e4861cbe"
+    },
+    {
+      "chapter": "ch-21",
+      "slug": "invisible-matter",
+      "title": "Invisible Matter",
+      "file": "posters/invisible-matter.png",
+      "sha256": "6041d755505c1ba654c6fc5bc0012ec6bb81e7321b74100772125b4a460947a6"
+    },
+    {
+      "chapter": "ch-22",
+      "slug": "space-and-state",
+      "title": "Space and State",
+      "file": "posters/space-and-state.png",
+      "sha256": "e4ef1bfba254ca4ab94fb6765d8c0909902fa9b4227f86a3b781ae9ebabd9b56"
+    },
+    {
+      "chapter": "ch-23",
+      "slug": "the-epistemic-realms",
+      "title": "The Epistemic Realms",
+      "file": "posters/the-epistemic-realms.png",
+      "sha256": "b1e982ac84b8369153c332c85ff9ae9bc6676aad8365cd4589e317bb1835ec74"
+    },
+    {
+      "chapter": "ch-24",
+      "slug": "knowledge-workers-of-the-temporal-realm",
+      "title": "Knowledge Workers of the Temporal Realm",
+      "file": "posters/knowledge-workers-of-the-temporal-realm.png",
+      "sha256": "459817fa84fb4d773c8c8b296ad328d421dfba67a9d5c0b4bd0cd21cb2fdd665"
+    },
+    {
+      "chapter": "ch-25",
+      "slug": "the-equitable-mind",
+      "title": "The Equitable Mind",
+      "file": "posters/the-equitable-mind.png",
+      "sha256": "27ce9956f91d08453c4673f6f4acbeb4df236076eb6397ebc61e4a50d3c65d57"
+    },
+    {
+      "chapter": "ch-26",
+      "slug": "individual-equity",
+      "title": "Individual Equity",
+      "file": "posters/individual-equity.png",
+      "sha256": "35271ae98948a299983bf2dc9bdd30cea37893e7d0a736f0cbda47a12dc1b219"
+    },
+    {
+      "chapter": "ch-27",
+      "slug": "ilm",
+      "title": "ILM",
+      "file": "posters/ilm.png",
+      "sha256": "1dde099710b4808627d51f48f8a67a37eb8e2a822d4af739e82bf7d66f81cd65"
+    },
+    {
+      "chapter": "ch-28",
+      "slug": "knowledge-as-infrastructure",
+      "title": "Knowledge as Infrastructure",
+      "file": "posters/knowledge-as-infrastructure.png",
+      "sha256": "e0cb7aebb96581a8a4f2ed867a3fa1c468300025f570950ceb30b787f6161f3c"
+    },
+    {
+      "chapter": "ch-29",
+      "slug": "hindawi-programming-system",
+      "title": "Hindawi Programming System",
+      "file": "posters/hindawi-programming-system.png",
+      "sha256": "1276a62ed178638fc858d31e5a2d1e35edc2d89cdf737caadedc038a284e9b6c"
+    },
+    {
+      "chapter": "ch-30",
+      "slug": "kaivalyik-agi",
+      "title": "Kaivalyik AGI",
+      "file": "posters/kaivalyik-agi.png",
+      "sha256": "8ed2a31d5706f71cf2977e3e48b18999f05e52a950a8e4590949bba0091b8db7"
+    },
+    {
+      "chapter": "ch-31",
+      "slug": "the-cycler",
+      "title": "The Cycler",
+      "file": "posters/the-cycler.png",
+      "sha256": "93d723d0190b14328f6e1620b5cd33522718352bee8151137952489c38b59521"
+    },
+    {
+      "chapter": "ch-32",
+      "slug": "creative-algebra",
+      "title": "Creative Algebra",
+      "file": "posters/creative-algebra.png",
+      "sha256": "14211034a2806c8aff2437069efdf5f344003ab3cae61383a4bd6968afc66af9"
+    },
+    {
+      "chapter": "ch-33",
+      "slug": "narrative-frameworks",
+      "title": "Narrative Frameworks",
+      "file": "posters/narrative-frameworks.png",
+      "sha256": "3630657f490cd111b4138839aa0df195a02c1213510009eced9a863460710cbf"
+    },
+    {
+      "chapter": "ch-34",
+      "slug": "cultural-context-vectors",
+      "title": "Cultural Context Vectors",
+      "file": "posters/cultural-context-vectors.png",
+      "sha256": "1188b2480b92acb3bddcdef05b71bbf891651bfc9067683c9e0d536115b9c4a7"
+    },
+    {
+      "chapter": "ch-35",
+      "slug": "character-archetypes",
+      "title": "Character Archetypes",
+      "file": "posters/character-archetypes.png",
+      "sha256": "37c55f4e9160f5a813dc3d542d6ecaa22d6b40c46eb8e8c8620d0d33e00d9d87"
+    },
+    {
+      "chapter": "ch-36",
+      "slug": "the-creative-cycler",
+      "title": "The Creative Cycler",
+      "file": "posters/the-creative-cycler.png",
+      "sha256": "702ce82184c3fdf6c93593259a19d94022ea7a9a8599b13f1a9d8e9086c0c73f"
+    },
+    {
+      "chapter": "ch-37",
+      "slug": "from-text-to-media",
+      "title": "From Text to Media",
+      "file": "posters/from-text-to-media.png",
+      "sha256": "004543a549a45b10a2b48e04eb857911468029e94bb90ba3dde35702d55b99e4"
+    },
+    {
+      "chapter": "ch-38",
+      "slug": "zistgah",
+      "title": "Zistgah",
+      "file": "posters/zistgah.png",
+      "sha256": "a5c6265e3c305b8f1ef87fa22fd07ac45caa4bed35a27b4ac161e9faa87f2ac7"
+    },
+    {
+      "chapter": "ch-39",
+      "slug": "kitab",
+      "title": "Kitab",
+      "file": "posters/kitab.png",
+      "sha256": "edb686efa1cf8d55e219d689bd9ecd9745e5f1846c60308db57559daaccb62f0"
+    },
+    {
+      "chapter": "ch-40",
+      "slug": "story-recipe-and-dna",
+      "title": "Story Recipe and DNA",
+      "file": "posters/story-recipe-and-dna.png",
+      "sha256": "9bb98e061e6c66e2c9268efa56a43ee6c508c7497d96aaa6909ba124e9f2a2cd"
+    },
+    {
+      "chapter": "ch-41",
+      "slug": "fork-the-formula",
+      "title": "Fork the Formula",
+      "file": "posters/fork-the-formula.png",
+      "sha256": "94cab6c9e5ae5843198393b7c8c29a10c072bcf93e742ffc35744c523aaa443a"
+    },
+    {
+      "chapter": "ch-42",
+      "slug": "creator-feedback",
+      "title": "Creator Feedback",
+      "file": "posters/creator-feedback.png",
+      "sha256": "832c26a042554c931c9d1a0b1d3ec7a5207e8c280529abfd75456c43fc4d2612"
+    },
+    {
+      "chapter": "ch-43",
+      "slug": "community-learning",
+      "title": "Community Learning",
+      "file": "posters/community-learning.png",
+      "sha256": "04b263eaa25698119d1d7fa70343cd0d4b8ea8a317748cfc3d8f0cb78e5b51e4"
+    },
+    {
+      "chapter": "ch-44",
+      "slug": "model-formula-analytics",
+      "title": "Model–Formula Analytics",
+      "file": "posters/model-formula-analytics.png",
+      "sha256": "31c14c9e1d6d1570605604df9edffad7986accc9fb49d4ea97c76b87932b48e4"
+    },
+    {
+      "chapter": "ch-45",
+      "slug": "creative-style-atlas",
+      "title": "Creative Style Atlas",
+      "file": "posters/creative-style-atlas.png",
+      "sha256": "935cca4baa1d5f8a4c4b75fc0f936ad2d639d9790621982241ba742942107918"
+    },
+    {
+      "chapter": "ch-46",
+      "slug": "the-plagiarism-check",
+      "title": "The Plagiarism Check",
+      "file": "posters/the-plagiarism-check.png",
+      "sha256": "d43bce639bbe92a7dafa403a3a0ba342d68eff2ffc948bc5b034ab743b21884d"
+    },
+    {
+      "chapter": "ch-47",
+      "slug": "human-as-director",
+      "title": "Human as Director",
+      "file": "posters/human-as-director.png",
+      "sha256": "82990ae84c03d8be5c05840b6b20780624a380167688585fd4ea882bcc88009a"
+    },
+    {
+      "chapter": "ch-48",
+      "slug": "api-orchestration",
+      "title": "API Orchestration",
+      "file": "posters/api-orchestration.png",
+      "sha256": "a0d4de51d625b1460aaa7b305d27d66f35b65529f56a18fcd1f2329dbe5e65bd"
+    },
+    {
+      "chapter": "ch-49",
+      "slug": "the-state-problem",
+      "title": "The State Problem",
+      "file": "posters/the-state-problem.png",
+      "sha256": "5cb6986126c7cdc7eea7b0cc27534abfac52f621806d60e9ec69269bebce161a"
+    },
+    {
+      "chapter": "ch-50",
+      "slug": "industrial-imagination",
+      "title": "Industrial Imagination",
+      "file": "posters/industrial-imagination.png",
+      "sha256": "dd212372c7aa7d5fd28cf8ae7a966d98aacee4a4c617ba6878ae97256b9b5c59"
+    },
+    {
+      "chapter": "ch-51",
+      "slug": "the-closed-creative-loop",
+      "title": "The Closed Creative Loop",
+      "file": "posters/the-closed-creative-loop.png",
+      "sha256": "84171e8558c3d1a3099e2554f58e65f00959c81840986b724ce47acf8ff8aeb3"
+    },
+    {
+      "chapter": "ch-52",
+      "slug": "verification-gated-creation",
+      "title": "Verification-Gated Creation",
+      "file": "posters/verification-gated-creation.png",
+      "sha256": "67b4e7cb27dbe062ae508a49b4e4a302e92d287251195a1d552d63488e85713f"
+    },
+    {
+      "chapter": "ch-53",
+      "slug": "the-universal-semantic-compiler",
+      "title": "The Universal Semantic Compiler",
+      "file": "posters/the-universal-semantic-compiler.png",
+      "sha256": "bf5f2a3ed15d257ecb4084963b6c3fe78740fd7b048c774ad6a01cee32ebf726"
+    }
+  ]
+}

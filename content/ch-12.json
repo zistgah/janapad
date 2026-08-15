@@ -1,0 +1,25 @@
+{
+  "id": "ch-12",
+  "title": "Pre-Walk",
+  "subtitle": "Anticipation Before Execution",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PEDLER can anticipate portions of a future walk before execution."
+    },
+    {
+      "type": "figure",
+      "id": "pre-walk",
+      "dimension": "2d",
+      "src": "assets/figures/pre-walk.png",
+      "alt": "Pre-Walk",
+      "caption": "Pre-Walk — Anticipation Before Execution",
+      "explanation": "The pre-walk concept is analogous in some respects to branch prediction: probable future trajectories can be prepared before the actual traversal.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ch-33",
+  "title": "Narrative Frameworks",
+  "subtitle": "The Pacing Engine",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Frameworks determine the temporal structure through which a story is generated."
+    },
+    {
+      "type": "figure",
+      "id": "narrative-frameworks",
+      "dimension": "2d",
+      "src": "assets/figures/narrative-frameworks.png",
+      "alt": "Narrative Frameworks",
+      "caption": "Narrative Frameworks — The Pacing Engine",
+      "explanation": "The Cycler can implement predictable creative stages using structures such as the Story Circle, Hero's Journey and Kishōtenketsu.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

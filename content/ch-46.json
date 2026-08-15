@@ -1,0 +1,25 @@
+{
+  "id": "ch-46",
+  "title": "The Plagiarism Check",
+  "subtitle": "Originality Before Publication",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Generated work should pass through an originality and similarity examination."
+    },
+    {
+      "type": "figure",
+      "id": "the-plagiarism-check",
+      "dimension": "2d",
+      "src": "assets/figures/the-plagiarism-check.png",
+      "alt": "The Plagiarism Check",
+      "caption": "The Plagiarism Check — Originality Before Publication",
+      "explanation": "The Cycler can route the completed work through an AI-assisted plagiarism or originality checker before publication, with native verification tools planned for the future.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

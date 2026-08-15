@@ -1,0 +1,25 @@
+{
+  "id": "ch-25",
+  "title": "The Equitable Mind",
+  "subtitle": "Balance of Interpretation",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The Equitable Mind treats interpretation as a balance rather than a single privileged reading."
+    },
+    {
+      "type": "figure",
+      "id": "the-equitable-mind",
+      "dimension": "2d",
+      "src": "assets/figures/the-equitable-mind.png",
+      "alt": "The Equitable Mind",
+      "caption": "The Equitable Mind — Balance of Interpretation",
+      "explanation": "This connects Individual Equity with cultural and linguistic equity and preserves the uniqueness of individual linguistic and experiential configurations.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

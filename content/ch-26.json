@@ -1,0 +1,25 @@
+{
+  "id": "ch-26",
+  "title": "Individual Equity",
+  "subtitle": "Every Person as a Unique Configuration",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Individuality includes an irreducibly personal configuration of experience and expression."
+    },
+    {
+      "type": "figure",
+      "id": "individual-equity",
+      "dimension": "2d",
+      "src": "assets/figures/individual-equity.png",
+      "alt": "Individual Equity",
+      "caption": "Individual Equity — Every Person as a Unique Configuration",
+      "explanation": "The principle extends equity beyond identical treatment toward recognition of unique linguistic, cultural and epistemic circumstances.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

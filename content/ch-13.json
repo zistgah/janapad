@@ -1,0 +1,25 @@
+{
+  "id": "ch-13",
+  "title": "PEDLER and Deterministic Time",
+  "subtitle": "Temporal Response as Configuration",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PEDLER permits the investigation of deterministic responses indexed by configuration."
+    },
+    {
+      "type": "figure",
+      "id": "pedler-and-deterministic-time",
+      "dimension": "2d",
+      "src": "assets/figures/pedler-and-deterministic-time.png",
+      "alt": "PEDLER and Deterministic Time",
+      "caption": "PEDLER and Deterministic Time — Temporal Response as Configuration",
+      "explanation": "Time is treated not simply as an external clock but as potentially related to the configuration through which the system is executing.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ch-07",
+  "title": "The Enabled Individual",
+  "subtitle": "Sovereignty Requires Capability",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Independence becomes meaningful when individuals possess the means to exercise agency."
+    },
+    {
+      "type": "figure",
+      "id": "the-enabled-individual",
+      "dimension": "2d",
+      "src": "assets/figures/the-enabled-individual.png",
+      "alt": "The Enabled Individual",
+      "caption": "The Enabled Individual — Sovereignty Requires Capability",
+      "explanation": "Humanesque therefore moves beyond nominal rights toward computational, creative, linguistic, educational and productive enablement.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

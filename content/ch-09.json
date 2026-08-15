@@ -1,0 +1,25 @@
+{
+  "id": "ch-09",
+  "title": "PEDLER",
+  "subtitle": "The Point Event-Driven Learner",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PEDLER models cognition as an evolving event-driven walk through state."
+    },
+    {
+      "type": "figure",
+      "id": "pedler",
+      "dimension": "2d",
+      "src": "assets/figures/pedler.png",
+      "alt": "PEDLER",
+      "caption": "PEDLER — The Point Event-Driven Learner",
+      "explanation": "The architecture emphasizes events, observations, acts, execution, inclination and state transitions rather than merely producing static predictions.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

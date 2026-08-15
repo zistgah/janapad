@@ -1,0 +1,25 @@
+{
+  "id": "ch-53",
+  "title": "The Universal Semantic Compiler",
+  "subtitle": "From Language to Verified Execution",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The wider Humanesque computing programme seeks semantic preservation across languages and execution environments."
+    },
+    {
+      "type": "figure",
+      "id": "the-universal-semantic-compiler",
+      "dimension": "2d",
+      "src": "assets/figures/the-universal-semantic-compiler.png",
+      "alt": "The Universal Semantic Compiler",
+      "caption": "The Universal Semantic Compiler — From Language to Verified Execution",
+      "explanation": "Canonical intermediate representation, ontology, temporal and epistemic layers and formal verification provide a route toward verified semantic compilation.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

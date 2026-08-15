@@ -1,0 +1,25 @@
+{
+  "id": "ch-08",
+  "title": "The Architecture of Agency",
+  "subtitle": "Intent to Execution",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Human agency becomes executable through an architecture that preserves intent across transformations."
+    },
+    {
+      "type": "figure",
+      "id": "the-architecture-of-agency",
+      "dimension": "2d",
+      "src": "assets/figures/the-architecture-of-agency.png",
+      "alt": "The Architecture of Agency",
+      "caption": "The Architecture of Agency — Intent to Execution",
+      "explanation": "The Cycler, PEDLER and associated systems provide mechanisms through which intention can become observable execution.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

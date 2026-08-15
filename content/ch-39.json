@@ -1,0 +1,25 @@
+{
+  "id": "ch-39",
+  "title": "Kitab",
+  "subtitle": "The Book as an Executable Creative Artifact",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Kitab provides an assembled publication layer for creative outputs."
+    },
+    {
+      "type": "figure",
+      "id": "kitab",
+      "dimension": "2d",
+      "src": "assets/figures/kitab.png",
+      "alt": "Kitab",
+      "caption": "Kitab — The Book as an Executable Creative Artifact",
+      "explanation": "Text, images, audio and related assets can be assembled into a coherent published work while retaining the creative process metadata.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ch-21",
+  "title": "Invisible Matter",
+  "subtitle": "The Unknown Gravitational Substrate",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The gravitational universe contains phenomena whose nature remains incompletely understood."
+    },
+    {
+      "type": "figure",
+      "id": "invisible-matter",
+      "dimension": "2d",
+      "src": "assets/figures/invisible-matter.png",
+      "alt": "Invisible Matter",
+      "caption": "Invisible Matter — The Unknown Gravitational Substrate",
+      "explanation": "The Humanesque research programme places such physical unknowns alongside questions about observability, configuration and the limits of current models.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

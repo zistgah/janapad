@@ -1,0 +1,25 @@
+{
+  "id": "ch-04",
+  "title": "The Mahajanapad",
+  "subtitle": "Many Sovereigns, One Interoperable Civilizational Space",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Humanesque becomes a Mahajanapad of enabled individuals and communities."
+    },
+    {
+      "type": "figure",
+      "id": "the-mahajanapad",
+      "dimension": "2d",
+      "src": "assets/figures/the-mahajanapad.png",
+      "alt": "The Mahajanapad",
+      "caption": "The Mahajanapad — Many Sovereigns, One Interoperable Civilizational Space",
+      "explanation": "The larger polity exists to enable its constituent sovereigns rather than subsume them, allowing plurality, linguistic diversity and cultural difference within an interoperable civilizational framework.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ch-44",
+  "title": "Model–Formula Analytics",
+  "subtitle": "Which AI Executes Which Creative Structure?",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "External AI systems can be compared according to how well they execute specific creative formulas."
+    },
+    {
+      "type": "figure",
+      "id": "model-formula-analytics",
+      "dimension": "2d",
+      "src": "assets/figures/model-formula-analytics.png",
+      "alt": "Model–Formula Analytics",
+      "caption": "Model–Formula Analytics — Which AI Executes Which Creative Structure?",
+      "explanation": "The Cycler can eventually recommend models based on empirical performance for narrative, cultural and multimodal tasks.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

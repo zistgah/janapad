@@ -1,0 +1,25 @@
+{
+  "id": "ch-02",
+  "title": "From Dukedom to Mahajanapad",
+  "subtitle": "The Evolution of the Polity",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Humanesque has outgrown the metaphor of a Dukedom."
+    },
+    {
+      "type": "figure",
+      "id": "from-dukedom-to-mahajanapad",
+      "dimension": "2d",
+      "src": "assets/figures/from-dukedom-to-mahajanapad.png",
+      "alt": "From Dukedom to Mahajanapad",
+      "caption": "From Dukedom to Mahajanapad — The Evolution of the Polity",
+      "explanation": "The conceptual transition from Dukedom to Mahajanapad marks a movement from hierarchy toward collective enablement and plural association.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

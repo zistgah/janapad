@@ -1,0 +1,25 @@
+{
+  "id": "ch-51",
+  "title": "The Closed Creative Loop",
+  "subtitle": "Generate → Publish → Evaluate → Fork",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The ecosystem becomes self-improving through repeated creative cycles."
+    },
+    {
+      "type": "figure",
+      "id": "the-closed-creative-loop",
+      "dimension": "2d",
+      "src": "assets/figures/the-closed-creative-loop.png",
+      "alt": "The Closed Creative Loop",
+      "caption": "The Closed Creative Loop — Generate → Publish → Evaluate → Fork",
+      "explanation": "Formula selection, automated execution, publication, evaluation and forking create an accumulating body of empirical creative knowledge.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

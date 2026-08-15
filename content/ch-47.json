@@ -1,0 +1,25 @@
+{
+  "id": "ch-47",
+  "title": "Human as Director",
+  "subtitle": "The Human Chooses the Formula",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The human remains the director of the creative process."
+    },
+    {
+      "type": "figure",
+      "id": "human-as-director",
+      "dimension": "2d",
+      "src": "assets/figures/human-as-director.png",
+      "alt": "Human as Director",
+      "caption": "Human as Director — The Human Chooses the Formula",
+      "explanation": "AI systems perform specialised Acts, while the creator determines the structural variables, evaluates outputs and decides what survives into the final work.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

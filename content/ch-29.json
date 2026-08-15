@@ -1,0 +1,25 @@
+{
+  "id": "ch-29",
+  "title": "Hindawi Programming System",
+  "subtitle": "Programming Beyond Linguistic Barriers",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hindawi extends programming into a multilingual and multiscript computational environment."
+    },
+    {
+      "type": "figure",
+      "id": "hindawi-programming-system",
+      "dimension": "2d",
+      "src": "assets/figures/hindawi-programming-system.png",
+      "alt": "Hindawi Programming System",
+      "caption": "Hindawi Programming System — Programming Beyond Linguistic Barriers",
+      "explanation": "The system connects linguistic equity with practical computing and provides a concrete example of Humanesque enablement.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ch-06",
+  "title": "Humanesque Mahajanapad",
+  "subtitle": "Volume III — The Enabling Polity",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "From Dukedom to Mahajanapad: a civilization organised around enabled sovereignty."
+    },
+    {
+      "type": "figure",
+      "id": "humanesque-mahajanapad",
+      "dimension": "2d",
+      "src": "assets/figures/humanesque-mahajanapad.png",
+      "alt": "Humanesque Mahajanapad",
+      "caption": "Humanesque Mahajanapad — Volume III — The Enabling Polity",
+      "explanation": "This volume consolidates the movement from individual sovereignty through epistemic enablement, PEDLER, creativity, temporal inquiry and interoperable communities into an emerging Humanesque Mahajanapad.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

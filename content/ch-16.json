@@ -1,0 +1,25 @@
+{
+  "id": "ch-16",
+  "title": "Time as Configuration",
+  "subtitle": "A Reference to a Specific State",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Time may be represented as a reference to configuration rather than merely elapsed duration."
+    },
+    {
+      "type": "figure",
+      "id": "time-as-configuration",
+      "dimension": "2d",
+      "src": "assets/figures/time-as-configuration.png",
+      "alt": "Time as Configuration",
+      "caption": "Time as Configuration — A Reference to a Specific State",
+      "explanation": "The configuration need not be local, opening a route toward a more general treatment of temporal reference.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ch-30",
+  "title": "Kaivalyik AGI",
+  "subtitle": "Crystallized Intelligence and Consciousness",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Kaivalyik AGI represents the larger horizon of the Humanesque technological programme."
+    },
+    {
+      "type": "figure",
+      "id": "kaivalyik-agi",
+      "dimension": "2d",
+      "src": "assets/figures/kaivalyik-agi.png",
+      "alt": "Kaivalyik AGI",
+      "caption": "Kaivalyik AGI — Crystallized Intelligence and Consciousness",
+      "explanation": "The concept links advanced artificial intelligence with questions of persistence, consciousness, sovereignty and the nature of intelligence.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ch-40",
+  "title": "Story Recipe and DNA",
+  "subtitle": "Every Work Carries Its Formula",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Each creative work can expose the parameters that generated it."
+    },
+    {
+      "type": "figure",
+      "id": "story-recipe-and-dna",
+      "dimension": "2d",
+      "src": "assets/figures/story-recipe-and-dna.png",
+      "alt": "Story Recipe and DNA",
+      "caption": "Story Recipe and DNA — Every Work Carries Its Formula",
+      "explanation": "P, F, A and C become a reproducible recipe, allowing readers to understand, study and reuse the underlying creative construction.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

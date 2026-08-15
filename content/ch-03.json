@@ -1,0 +1,25 @@
+{
+  "id": "ch-03",
+  "title": "Janapada to Mahajanapada",
+  "subtitle": "Ancient Political Insight for a New Civilization",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Many communities can participate in a larger polity without losing their identity."
+    },
+    {
+      "type": "figure",
+      "id": "janapada-to-mahajanapada",
+      "dimension": "2d",
+      "src": "assets/figures/janapada-to-mahajanapada.png",
+      "alt": "Janapada to Mahajanapada",
+      "caption": "Janapada to Mahajanapada — Ancient Political Insight for a New Civilization",
+      "explanation": "The ancient Janapada–Mahajanapada analogy provides a civilizational vocabulary for Humanesque's transition from individual sovereignty to interoperable communities.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ch-48",
+  "title": "API Orchestration",
+  "subtitle": "From Manual Cycling to Automated Execution",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "API integration transforms the Cycler from a prompt-routing interface into an executable orchestration layer."
+    },
+    {
+      "type": "figure",
+      "id": "api-orchestration",
+      "dimension": "2d",
+      "src": "assets/figures/api-orchestration.png",
+      "alt": "API Orchestration",
+      "caption": "API Orchestration — From Manual Cycling to Automated Execution",
+      "explanation": "The system can carry state across text, image, audio and video services while managing asynchronous and heterogeneous outputs.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

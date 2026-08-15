@@ -1,0 +1,25 @@
+{
+  "id": "ch-17",
+  "title": "Consciousness and Time",
+  "subtitle": "The Execution Agency of the Brain",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "For embodied bioforms, the Cycler may correspond to the psyche as an execution agency."
+    },
+    {
+      "type": "figure",
+      "id": "consciousness-and-time",
+      "dimension": "2d",
+      "src": "assets/figures/consciousness-and-time.png",
+      "alt": "Consciousness and Time",
+      "caption": "Consciousness and Time — The Execution Agency of the Brain",
+      "explanation": "This hypothesis proposes a deep relationship between consciousness and temporal execution while leaving its mathematical derivation as an open research problem.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

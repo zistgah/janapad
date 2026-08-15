@@ -1,0 +1,25 @@
+{
+  "id": "ch-19",
+  "title": "Gravity and the Temporal Realm",
+  "subtitle": "Configuration, Curvature and Rate",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Gravity provides a natural physical comparison for configuration-dependent temporal rate."
+    },
+    {
+      "type": "figure",
+      "id": "gravity-and-the-temporal-realm",
+      "dimension": "2d",
+      "src": "assets/figures/gravity-and-the-temporal-realm.png",
+      "alt": "Gravity and the Temporal Realm",
+      "caption": "Gravity and the Temporal Realm — Configuration, Curvature and Rate",
+      "explanation": "The research direction investigates whether PEDLER's configuration-based time concept can illuminate correspondences with gravitational time dilation.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

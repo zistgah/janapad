@@ -1,0 +1,25 @@
+{
+  "id": "ch-41",
+  "title": "Fork the Formula",
+  "subtitle": "Creation as Lineage",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "A successful creative formula can become the starting point for another creator."
+    },
+    {
+      "type": "figure",
+      "id": "fork-the-formula",
+      "dimension": "2d",
+      "src": "assets/figures/fork-the-formula.png",
+      "alt": "Fork the Formula",
+      "caption": "Fork the Formula — Creation as Lineage",
+      "explanation": "The fork mechanism preserves provenance while allowing users to alter individual parameters and generate new cultural or narrative trajectories.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ch-42",
+  "title": "Creator Feedback",
+  "subtitle": "Coherence, Context and Friction",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The creator evaluates the performance of the external AI against the intended formula."
+    },
+    {
+      "type": "figure",
+      "id": "creator-feedback",
+      "dimension": "2d",
+      "src": "assets/figures/creator-feedback.png",
+      "alt": "Creator Feedback",
+      "caption": "Creator Feedback — Coherence, Context and Friction",
+      "explanation": "Quantitative feedback captures whether the model preserved structure and context and how much human editing was required.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ch-36",
+  "title": "The Creative Cycler",
+  "subtitle": "Divide, Generate, Return, Continue",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "AI creativity becomes a cyclic collaborative process rather than a single generation event."
+    },
+    {
+      "type": "figure",
+      "id": "the-creative-cycler",
+      "dimension": "2d",
+      "src": "assets/figures/the-creative-cycler.png",
+      "alt": "The Creative Cycler",
+      "caption": "The Creative Cycler — Divide, Generate, Return, Continue",
+      "explanation": "The human moves through staged external AI systems, returning outputs to the Cycler so that subsequent prompts retain the evolving narrative spine.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ch-38",
+  "title": "Zistgah",
+  "subtitle": "Creative Infrastructure for Human Agency",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Zistgah provides an environment in which people can explore and execute creative ideas."
+    },
+    {
+      "type": "figure",
+      "id": "zistgah",
+      "dimension": "2d",
+      "src": "assets/figures/zistgah.png",
+      "alt": "Zistgah",
+      "caption": "Zistgah — Creative Infrastructure for Human Agency",
+      "explanation": "The platform is conceived as an orchestration and publishing ecosystem rather than simply another generative AI model.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

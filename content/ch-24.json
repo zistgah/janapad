@@ -1,0 +1,25 @@
+{
+  "id": "ch-24",
+  "title": "Knowledge Workers of the Temporal Realm",
+  "subtitle": "Researchers as Participants",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Researchers investigating time belong simultaneously to the temporal and epistemic realms."
+    },
+    {
+      "type": "figure",
+      "id": "knowledge-workers-of-the-temporal-realm",
+      "dimension": "2d",
+      "src": "assets/figures/knowledge-workers-of-the-temporal-realm.png",
+      "alt": "Knowledge Workers of the Temporal Realm",
+      "caption": "Knowledge Workers of the Temporal Realm — Researchers as Participants",
+      "explanation": "The poster architecture is intended to allow physicists, neuroscientists and philosophers to approach the framework without requiring adoption of its internal terminology.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ch-52",
+  "title": "Verification-Gated Creation",
+  "subtitle": "Creation With an Oracle",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Creation becomes stronger when important transitions are verification-gated."
+    },
+    {
+      "type": "figure",
+      "id": "verification-gated-creation",
+      "dimension": "2d",
+      "src": "assets/figures/verification-gated-creation.png",
+      "alt": "Verification-Gated Creation",
+      "caption": "Verification-Gated Creation — Creation With an Oracle",
+      "explanation": "The VGC/IWBT orientation introduces explicit verification and oracle mechanisms rather than treating generated output as automatically trustworthy.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "upload_type": "publication",
+  "publication_type": "book",
+  "title": "Humanesque Mahajanapad — Volume III: The Enabling Polity",
+  "creators": [
+    {
+      "name": "Choudhary, Abhishek",
+      "affiliation": "AyeAI",
+      "orcid": "0009-0002-0684-8320"
+    }
+  ],
+  "description": "<p>This book contains a Humanesque political and epistemic framework centered on sovereignty of the sentient individual, the transition from Dukedom to Mahajanapad, and the relationship between individual sovereignty, capability, community, and interoperable civilizational space. It describes the Enabled Individual, the Architecture of Agency, the Equitable Mind, Individual Equity, the epistemic realms, Janapada and Mahajanapada, and knowledge as infrastructure. It also contains the language and computing systems ILM and the Hindawi Programming System, together with the Kaivalyik AGI concept. The work includes PEDLER (Point Event-Driven Learner), its states, Acts, execution, inclination, pre-walk, persistent configuration, and human–machine co-cognition, as well as a proposed treatment of time as configuration, consciousness and time, temporal experience, time dilation, gravity, configuration-space geometry, event horizons, and invisible matter. Some of these temporal and consciousness relationships are presented as hypotheses or research directions rather than established results.</p><p>The book further describes a creative and computational architecture built around the Cycler and the creative algebra S = f(P,F,A,C), where plot, narrative framework, character archetypes, and cultural context are treated as primitives for generating and transforming creative works. It includes narrative frameworks, cultural-context vectors, multimodal transformation from text to image, audio and video, Zistgah, Kitab, story recipes and creative DNA, formula forking, creator feedback, community learning, model–formula analytics, stylistic exploration, plagiarism checking, human direction, API orchestration, state management, and closed-loop creative execution. It also describes PEDLER pilots, Verification-Gated Creation, the Universal Semantic Compiler, and the transition from conceptual architecture to execution. The final sections characterize Humanesque Mahajanapad as a space containing many sovereign individuals and communities, with the volume designated as Volume III, The Enabling Polity.</p>",
+  "keywords": [
+    "Humanesque",
+    "Mahajanapad",
+    "Mahajanapada",
+    "sovereignty",
+    "sentience",
+    "enablement",
+    "epistemic realms",
+    "PEDLER",
+    "Point Event-Driven Learner",
+    "inclination",
+    "pre-walk",
+    "configuration",
+    "consciousness",
+    "time",
+    "time dilation",
+    "gravity",
+    "relativity",
+    "event horizon",
+    "configuration space",
+    "Equitable Mind",
+    "Individual Equity",
+    "ILM",
+    "Hindawi Programming System",
+    "Kaivalyik AGI",
+    "Cycler",
+    "creative algebra",
+    "narrative frameworks",
+    "cultural context",
+    "Zistgah",
+    "Kitab",
+    "creative DNA",
+    "forking",
+    "creator feedback",
+    "multimodal creativity",
+    "API orchestration",
+    "human-machine co-cognition",
+    "Verification-Gated Creation",
+    "Universal Semantic Compiler",
+    "knowledge infrastructure"
+  ],
+  "license": "cc-by-sa-4.0",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.17497559",
+      "relation": "isDerivedFrom",
+      "scheme": "doi",
+      "resource_type": "publication-other"
+    },
+    {
+      "identifier": "10.5281/zenodo.21397274",
+      "relation": "references",
+      "scheme": "doi",
+      "resource_type": "publication-other"
+    },
+    {
+      "identifier": "10.5281/zenodo.21917807",
+      "relation": "isContinuationOf",
+      "scheme": "doi",
+      "resource_type": "publication-book"
+    }
+  ]
+}

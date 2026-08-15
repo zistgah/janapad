@@ -1,0 +1,860 @@
+{
+  "meta": {
+    "title": "Humanesque Mahajanapad",
+    "subtitle": "Emancipation of the Individual",
+    "author": "Abhishek Choudhary",
+    "affiliation": "AyeAI",
+    "orcid": "0009-0002-0684-8320",
+    "copyright": "Copyright (c) 1993-2026 Abhishek Choudhary. All rights reserved.",
+    "license": "CC-BY-SA-4.0",
+    "doi": null,
+    "repo": "zistgah/janapad",
+    "cover": "assets/figures/cover.png",
+    "language": "en"
+  },
+  "theme": {
+    "tokens": {
+      "--ink": "#0a0e27",
+      "--acc": "#d4a843",
+      "--light": "#fbf6e9"
+    }
+  },
+  "structure": {
+    "parts": [
+      {
+        "id": "foundations",
+        "title": "Foundations",
+        "chapters": [
+          "the-humanesque-proposition"
+        ]
+      },
+      {
+        "id": "humanesque-mahajanapad",
+        "title": "Humanesque Mahajanapad",
+        "chapters": [
+          "from-dukedom-to-mahajanapad",
+          "janapada-to-mahajanapada",
+          "the-mahajanapad",
+          "the-journey-continues",
+          "humanesque-mahajanapad"
+        ]
+      },
+      {
+        "id": "enablement",
+        "title": "Enablement",
+        "chapters": [
+          "the-enabled-individual"
+        ]
+      },
+      {
+        "id": "humanesque-architecture",
+        "title": "Humanesque Architecture",
+        "chapters": [
+          "the-architecture-of-agency"
+        ]
+      },
+      {
+        "id": "pedler",
+        "title": "PEDLER",
+        "chapters": [
+          "pedler",
+          "the-pedler-walk",
+          "inclination",
+          "pre-walk",
+          "pedler-and-deterministic-time",
+          "pedler-pilots",
+          "human-machine-co-cognition"
+        ]
+      },
+      {
+        "id": "temporal-realm",
+        "title": "Temporal Realm",
+        "chapters": [
+          "time-as-configuration",
+          "consciousness-and-time",
+          "time-dilation",
+          "gravity-and-the-temporal-realm",
+          "event-horizon",
+          "invisible-matter"
+        ]
+      },
+      {
+        "id": "epistemic-realms",
+        "title": "Epistemic Realms",
+        "chapters": [
+          "space-and-state",
+          "the-epistemic-realms",
+          "knowledge-workers-of-the-temporal-realm",
+          "the-equitable-mind",
+          "individual-equity",
+          "ilm",
+          "knowledge-as-infrastructure"
+        ]
+      },
+      {
+        "id": "computational-realm",
+        "title": "Computational Realm",
+        "chapters": [
+          "hindawi-programming-system",
+          "kaivalyik-agi"
+        ]
+      },
+      {
+        "id": "creativity-and-execution",
+        "title": "Creativity and Execution",
+        "chapters": [
+          "the-cycler"
+        ]
+      },
+      {
+        "id": "creativity",
+        "title": "Creativity",
+        "chapters": [
+          "creative-algebra",
+          "narrative-frameworks",
+          "cultural-context-vectors",
+          "character-archetypes",
+          "the-creative-cycler",
+          "from-text-to-media",
+          "zistgah",
+          "kitab",
+          "story-recipe-and-dna",
+          "fork-the-formula",
+          "creator-feedback",
+          "community-learning",
+          "model-formula-analytics",
+          "creative-style-atlas",
+          "the-plagiarism-check",
+          "human-as-director"
+        ]
+      },
+      {
+        "id": "execution",
+        "title": "Execution",
+        "chapters": [
+          "api-orchestration",
+          "the-state-problem",
+          "industrial-imagination",
+          "the-closed-creative-loop"
+        ]
+      },
+      {
+        "id": "verification",
+        "title": "Verification",
+        "chapters": [
+          "verification-gated-creation"
+        ]
+      },
+      {
+        "id": "computation",
+        "title": "Computation",
+        "chapters": [
+          "the-universal-semantic-compiler"
+        ]
+      }
+    ],
+    "chapters": [
+      {
+        "id": "ch-01",
+        "number": 1,
+        "title": "The Humanesque Proposition",
+        "subtitle": "Sovereignty Belongs to the Sentient",
+        "source": "content/ch-01.json",
+        "topics": [
+          "sovereignty",
+          "sentience",
+          "bioforms",
+          "synthetiforms"
+        ]
+      },
+      {
+        "id": "ch-02",
+        "number": 2,
+        "title": "From Dukedom to Mahajanapad",
+        "subtitle": "The Evolution of the Polity",
+        "source": "content/ch-02.json",
+        "topics": [
+          "duke",
+          "dukedom",
+          "mahajanapad",
+          "polity"
+        ]
+      },
+      {
+        "id": "ch-03",
+        "number": 3,
+        "title": "Janapada to Mahajanapada",
+        "subtitle": "Ancient Political Insight for a New Civilization",
+        "source": "content/ch-03.json",
+        "topics": [
+          "janapada",
+          "mahajanapada",
+          "ancient india",
+          "polity"
+        ]
+      },
+      {
+        "id": "ch-04",
+        "number": 4,
+        "title": "The Mahajanapad",
+        "subtitle": "Many Sovereigns, One Interoperable Civilizational Space",
+        "source": "content/ch-04.json",
+        "topics": [
+          "mahajanapad",
+          "plurality",
+          "sovereignty",
+          "community",
+          "civilization"
+        ]
+      },
+      {
+        "id": "ch-05",
+        "number": 5,
+        "title": "The Journey Continues",
+        "subtitle": "From Conceptual Architecture to Execution",
+        "source": "content/ch-05.json",
+        "topics": [
+          "execution",
+          "architecture",
+          "research",
+          "implementation"
+        ]
+      },
+      {
+        "id": "ch-06",
+        "number": 6,
+        "title": "Humanesque Mahajanapad",
+        "subtitle": "Volume III — The Enabling Polity",
+        "source": "content/ch-06.json",
+        "topics": [
+          "humanesque",
+          "mahajanapad",
+          "volume iii",
+          "enablement"
+        ]
+      },
+      {
+        "id": "ch-07",
+        "number": 7,
+        "title": "The Enabled Individual",
+        "subtitle": "Sovereignty Requires Capability",
+        "source": "content/ch-07.json",
+        "topics": [
+          "individual",
+          "agency",
+          "capability",
+          "execution"
+        ]
+      },
+      {
+        "id": "ch-08",
+        "number": 8,
+        "title": "The Architecture of Agency",
+        "subtitle": "Intent to Execution",
+        "source": "content/ch-08.json",
+        "topics": [
+          "agency",
+          "intent",
+          "execution",
+          "cyclER"
+        ]
+      },
+      {
+        "id": "ch-09",
+        "number": 9,
+        "title": "PEDLER",
+        "subtitle": "The Point Event-Driven Learner",
+        "source": "content/ch-09.json",
+        "topics": [
+          "pedler",
+          "cognitive architecture",
+          "event-driven learning",
+          "walk"
+        ]
+      },
+      {
+        "id": "ch-10",
+        "number": 10,
+        "title": "The PEDLER Walk",
+        "subtitle": "States, Acts and Execution",
+        "source": "content/ch-10.json",
+        "topics": [
+          "pedler",
+          "states",
+          "acts",
+          "execution",
+          "walk"
+        ]
+      },
+      {
+        "id": "ch-11",
+        "number": 11,
+        "title": "Inclination",
+        "subtitle": "The Gradient of PEDLER Choice",
+        "source": "content/ch-11.json",
+        "topics": [
+          "inclination",
+          "gradient",
+          "selection",
+          "direction"
+        ]
+      },
+      {
+        "id": "ch-12",
+        "number": 12,
+        "title": "Pre-Walk",
+        "subtitle": "Anticipation Before Execution",
+        "source": "content/ch-12.json",
+        "topics": [
+          "pre-walk",
+          "anticipation",
+          "prediction",
+          "branch prediction"
+        ]
+      },
+      {
+        "id": "ch-13",
+        "number": 13,
+        "title": "PEDLER and Deterministic Time",
+        "subtitle": "Temporal Response as Configuration",
+        "source": "content/ch-13.json",
+        "topics": [
+          "temporal",
+          "determinism",
+          "configuration",
+          "response"
+        ]
+      },
+      {
+        "id": "ch-14",
+        "number": 14,
+        "title": "PEDLER Pilots",
+        "subtitle": "Humans Watching the Walk",
+        "source": "content/ch-14.json",
+        "topics": [
+          "human pilots",
+          "pedler",
+          "bioforms",
+          "watch",
+          "anticipation"
+        ]
+      },
+      {
+        "id": "ch-15",
+        "number": 15,
+        "title": "Human–Machine Co-Cognition",
+        "subtitle": "Bioform and Synthetiform Agency",
+        "source": "content/ch-15.json",
+        "topics": [
+          "bioform",
+          "synthetiform",
+          "co-cognition",
+          "agency"
+        ]
+      },
+      {
+        "id": "ch-16",
+        "number": 16,
+        "title": "Time as Configuration",
+        "subtitle": "A Reference to a Specific State",
+        "source": "content/ch-16.json",
+        "topics": [
+          "time",
+          "configuration",
+          "reference",
+          "state"
+        ]
+      },
+      {
+        "id": "ch-17",
+        "number": 17,
+        "title": "Consciousness and Time",
+        "subtitle": "The Execution Agency of the Brain",
+        "source": "content/ch-17.json",
+        "topics": [
+          "consciousness",
+          "time",
+          "psyche",
+          "execution agency"
+        ]
+      },
+      {
+        "id": "ch-18",
+        "number": 18,
+        "title": "Time Dilation",
+        "subtitle": "Temporal Experience Across States",
+        "source": "content/ch-18.json",
+        "topics": [
+          "time dilation",
+          "consciousness",
+          "state",
+          "relativity"
+        ]
+      },
+      {
+        "id": "ch-19",
+        "number": 19,
+        "title": "Gravity and the Temporal Realm",
+        "subtitle": "Configuration, Curvature and Rate",
+        "source": "content/ch-19.json",
+        "topics": [
+          "gravity",
+          "time dilation",
+          "relativity",
+          "configuration"
+        ]
+      },
+      {
+        "id": "ch-20",
+        "number": 20,
+        "title": "Event Horizon",
+        "subtitle": "A Boundary of Accessible Configuration",
+        "source": "content/ch-20.json",
+        "topics": [
+          "event horizon",
+          "black hole",
+          "configuration",
+          "boundary"
+        ]
+      },
+      {
+        "id": "ch-21",
+        "number": 21,
+        "title": "Invisible Matter",
+        "subtitle": "The Unknown Gravitational Substrate",
+        "source": "content/ch-21.json",
+        "topics": [
+          "dark matter",
+          "gravity",
+          "cosmology",
+          "unknown matter"
+        ]
+      },
+      {
+        "id": "ch-22",
+        "number": 22,
+        "title": "Space and State",
+        "subtitle": "From Euclidean Space to Configuration Space",
+        "source": "content/ch-22.json",
+        "topics": [
+          "space",
+          "configuration space",
+          "Hilbert space",
+          "geometry"
+        ]
+      },
+      {
+        "id": "ch-23",
+        "number": 23,
+        "title": "The Epistemic Realms",
+        "subtitle": "Knowledge as a Structured Landscape",
+        "source": "content/ch-23.json",
+        "topics": [
+          "epistemic realms",
+          "knowledge",
+          "cognition",
+          "architecture"
+        ]
+      },
+      {
+        "id": "ch-24",
+        "number": 24,
+        "title": "Knowledge Workers of the Temporal Realm",
+        "subtitle": "Researchers as Participants",
+        "source": "content/ch-24.json",
+        "topics": [
+          "knowledge workers",
+          "temporal realm",
+          "research",
+          "epistemology"
+        ]
+      },
+      {
+        "id": "ch-25",
+        "number": 25,
+        "title": "The Equitable Mind",
+        "subtitle": "Balance of Interpretation",
+        "source": "content/ch-25.json",
+        "topics": [
+          "equitable mind",
+          "interpretation",
+          "equity",
+          "idiolect"
+        ]
+      },
+      {
+        "id": "ch-26",
+        "number": 26,
+        "title": "Individual Equity",
+        "subtitle": "Every Person as a Unique Configuration",
+        "source": "content/ch-26.json",
+        "topics": [
+          "individual equity",
+          "uniqueness",
+          "culture",
+          "language"
+        ]
+      },
+      {
+        "id": "ch-27",
+        "number": 27,
+        "title": "ILM",
+        "subtitle": "Language-Independent Computing",
+        "source": "content/ch-27.json",
+        "topics": [
+          "ilm",
+          "multiscript",
+          "language",
+          "computing"
+        ]
+      },
+      {
+        "id": "ch-28",
+        "number": 28,
+        "title": "Knowledge as Infrastructure",
+        "subtitle": "From Ideas to Executable Systems",
+        "source": "content/ch-28.json",
+        "topics": [
+          "knowledge infrastructure",
+          "execution",
+          "systems",
+          "research"
+        ]
+      },
+      {
+        "id": "ch-29",
+        "number": 29,
+        "title": "Hindawi Programming System",
+        "subtitle": "Programming Beyond Linguistic Barriers",
+        "source": "content/ch-29.json",
+        "topics": [
+          "hindawi",
+          "programming",
+          "multilingual computing",
+          "ilm"
+        ]
+      },
+      {
+        "id": "ch-30",
+        "number": 30,
+        "title": "Kaivalyik AGI",
+        "subtitle": "Crystallized Intelligence and Consciousness",
+        "source": "content/ch-30.json",
+        "topics": [
+          "kaivalyik agi",
+          "agi",
+          "consciousness",
+          "intelligence"
+        ]
+      },
+      {
+        "id": "ch-31",
+        "number": 31,
+        "title": "The Cycler",
+        "subtitle": "The Temporal Execution Agency",
+        "source": "content/ch-31.json",
+        "topics": [
+          "cycler",
+          "orchestration",
+          "execution",
+          "time"
+        ]
+      },
+      {
+        "id": "ch-32",
+        "number": 32,
+        "title": "Creative Algebra",
+        "subtitle": "S = f(P,F,A,C)",
+        "source": "content/ch-32.json",
+        "topics": [
+          "creative algebra",
+          "plot",
+          "framework",
+          "character",
+          "context"
+        ]
+      },
+      {
+        "id": "ch-33",
+        "number": 33,
+        "title": "Narrative Frameworks",
+        "subtitle": "The Pacing Engine",
+        "source": "content/ch-33.json",
+        "topics": [
+          "narrative frameworks",
+          "story circle",
+          "hero journey",
+          "kishotenketsu"
+        ]
+      },
+      {
+        "id": "ch-34",
+        "number": 34,
+        "title": "Cultural Context Vectors",
+        "subtitle": "The Cultural Dimension of Creativity",
+        "source": "content/ch-34.json",
+        "topics": [
+          "cultural context",
+          "genre",
+          "linguistics",
+          "aesthetics"
+        ]
+      },
+      {
+        "id": "ch-35",
+        "number": 35,
+        "title": "Character Archetypes",
+        "subtitle": "Agents Within the Narrative",
+        "source": "content/ch-35.json",
+        "topics": [
+          "characters",
+          "archetypes",
+          "seeker",
+          "mentor",
+          "ally",
+          "shadow"
+        ]
+      },
+      {
+        "id": "ch-36",
+        "number": 36,
+        "title": "The Creative Cycler",
+        "subtitle": "Divide, Generate, Return, Continue",
+        "source": "content/ch-36.json",
+        "topics": [
+          "cycler",
+          "creative workflow",
+          "divide and conquer",
+          "ai"
+        ]
+      },
+      {
+        "id": "ch-37",
+        "number": 37,
+        "title": "From Text to Media",
+        "subtitle": "One Spine, Many Modalities",
+        "source": "content/ch-37.json",
+        "topics": [
+          "multimodal",
+          "writing",
+          "image",
+          "audio",
+          "video",
+          "film"
+        ]
+      },
+      {
+        "id": "ch-38",
+        "number": 38,
+        "title": "Zistgah",
+        "subtitle": "Creative Infrastructure for Human Agency",
+        "source": "content/ch-38.json",
+        "topics": [
+          "zistgah",
+          "creativity",
+          "platform",
+          "enablement"
+        ]
+      },
+      {
+        "id": "ch-39",
+        "number": 39,
+        "title": "Kitab",
+        "subtitle": "The Book as an Executable Creative Artifact",
+        "source": "content/ch-39.json",
+        "topics": [
+          "kitab",
+          "publishing",
+          "book",
+          "media"
+        ]
+      },
+      {
+        "id": "ch-40",
+        "number": 40,
+        "title": "Story Recipe and DNA",
+        "subtitle": "Every Work Carries Its Formula",
+        "source": "content/ch-40.json",
+        "topics": [
+          "recipe card",
+          "dna",
+          "metadata",
+          "formula"
+        ]
+      },
+      {
+        "id": "ch-41",
+        "number": 41,
+        "title": "Fork the Formula",
+        "subtitle": "Creation as Lineage",
+        "source": "content/ch-41.json",
+        "topics": [
+          "forking",
+          "lineage",
+          "reuse",
+          "creative commons"
+        ]
+      },
+      {
+        "id": "ch-42",
+        "number": 42,
+        "title": "Creator Feedback",
+        "subtitle": "Coherence, Context and Friction",
+        "source": "content/ch-42.json",
+        "topics": [
+          "feedback",
+          "coherence",
+          "context adherence",
+          "friction index"
+        ]
+      },
+      {
+        "id": "ch-43",
+        "number": 43,
+        "title": "Community Learning",
+        "subtitle": "From Feedback to Collective Intelligence",
+        "source": "content/ch-43.json",
+        "topics": [
+          "community",
+          "learning",
+          "recommendation",
+          "feedback"
+        ]
+      },
+      {
+        "id": "ch-44",
+        "number": 44,
+        "title": "Model–Formula Analytics",
+        "subtitle": "Which AI Executes Which Creative Structure?",
+        "source": "content/ch-44.json",
+        "topics": [
+          "ai models",
+          "analytics",
+          "formula",
+          "performance"
+        ]
+      },
+      {
+        "id": "ch-45",
+        "number": 45,
+        "title": "Creative Style Atlas",
+        "subtitle": "Artists, Directors and Traditions",
+        "source": "content/ch-45.json",
+        "topics": [
+          "artists",
+          "directors",
+          "style",
+          "culture",
+          "film"
+        ]
+      },
+      {
+        "id": "ch-46",
+        "number": 46,
+        "title": "The Plagiarism Check",
+        "subtitle": "Originality Before Publication",
+        "source": "content/ch-46.json",
+        "topics": [
+          "plagiarism",
+          "originality",
+          "provenance",
+          "verification"
+        ]
+      },
+      {
+        "id": "ch-47",
+        "number": 47,
+        "title": "Human as Director",
+        "subtitle": "The Human Chooses the Formula",
+        "source": "content/ch-47.json",
+        "topics": [
+          "human agency",
+          "director",
+          "ai",
+          "creative control"
+        ]
+      },
+      {
+        "id": "ch-48",
+        "number": 48,
+        "title": "API Orchestration",
+        "subtitle": "From Manual Cycling to Automated Execution",
+        "source": "content/ch-48.json",
+        "topics": [
+          "api",
+          "orchestration",
+          "automation",
+          "state"
+        ]
+      },
+      {
+        "id": "ch-49",
+        "number": 49,
+        "title": "The State Problem",
+        "subtitle": "Why the Cycler Exists",
+        "source": "content/ch-49.json",
+        "topics": [
+          "state",
+          "context",
+          "memory",
+          "orchestration"
+        ]
+      },
+      {
+        "id": "ch-50",
+        "number": 50,
+        "title": "Industrial Imagination",
+        "subtitle": "From Tool User to System Architect",
+        "source": "content/ch-50.json",
+        "topics": [
+          "automation",
+          "creative production",
+          "system architecture",
+          "ai"
+        ]
+      },
+      {
+        "id": "ch-51",
+        "number": 51,
+        "title": "The Closed Creative Loop",
+        "subtitle": "Generate → Publish → Evaluate → Fork",
+        "source": "content/ch-51.json",
+        "topics": [
+          "feedback loop",
+          "generation",
+          "publication",
+          "forking",
+          "learning"
+        ]
+      },
+      {
+        "id": "ch-52",
+        "number": 52,
+        "title": "Verification-Gated Creation",
+        "subtitle": "Creation With an Oracle",
+        "source": "content/ch-52.json",
+        "topics": [
+          "verification",
+          "oracle",
+          "proof",
+          "creation",
+          "VGC"
+        ]
+      },
+      {
+        "id": "ch-53",
+        "number": 53,
+        "title": "The Universal Semantic Compiler",
+        "subtitle": "From Language to Verified Execution",
+        "source": "content/ch-53.json",
+        "topics": [
+          "semantic compiler",
+          "CKO",
+          "Lean",
+          "SMT",
+          "verification"
+        ]
+      }
+    ]
+  }
+}

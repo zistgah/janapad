@@ -1,0 +1,25 @@
+{
+  "id": "ch-27",
+  "title": "ILM",
+  "subtitle": "Language-Independent Computing",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "ILM provides a language-independent computational layer."
+    },
+    {
+      "type": "figure",
+      "id": "ilm",
+      "dimension": "2d",
+      "src": "assets/figures/ilm.png",
+      "alt": "ILM",
+      "caption": "ILM — Language-Independent Computing",
+      "explanation": "Integrative Linguistic Multiscript architecture seeks to preserve linguistic diversity while providing canonical computational representations.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

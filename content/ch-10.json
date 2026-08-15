@@ -1,0 +1,25 @@
+{
+  "id": "ch-10",
+  "title": "The PEDLER Walk",
+  "subtitle": "States, Acts and Execution",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "A PEDLER response is a walk through executable state."
+    },
+    {
+      "type": "figure",
+      "id": "the-pedler-walk",
+      "dimension": "2d",
+      "src": "assets/figures/the-pedler-walk.png",
+      "alt": "The PEDLER Walk",
+      "caption": "The PEDLER Walk — States, Acts and Execution",
+      "explanation": "The distinction between state observation, act selection, execution and subsequent state provides the operational core of the architecture.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

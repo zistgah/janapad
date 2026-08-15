@@ -1,0 +1,25 @@
+{
+  "id": "ch-31",
+  "title": "The Cycler",
+  "subtitle": "The Temporal Execution Agency",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The Cycler maintains continuity across a sequence of executable creative or cognitive operations."
+    },
+    {
+      "type": "figure",
+      "id": "the-cycler",
+      "dimension": "2d",
+      "src": "assets/figures/the-cycler.png",
+      "alt": "The Cycler",
+      "caption": "The Cycler — The Temporal Execution Agency",
+      "explanation": "It becomes the temporal organiser of the larger architecture, carrying state and intent from one execution stage to the next.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ch-45",
+  "title": "Creative Style Atlas",
+  "subtitle": "Artists, Directors and Traditions",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "A complete creativity ecosystem must allow creators to study established artistic traditions."
+    },
+    {
+      "type": "figure",
+      "id": "creative-style-atlas",
+      "dimension": "2d",
+      "src": "assets/figures/creative-style-atlas.png",
+      "alt": "Creative Style Atlas",
+      "caption": "Creative Style Atlas — Artists, Directors and Traditions",
+      "explanation": "Users can explore the styles and practices of major artists, writers, musicians, actors and directors across South Asia, Europe, Iran and the wider world.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

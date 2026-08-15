@@ -1,0 +1,25 @@
+{
+  "id": "ch-50",
+  "title": "Industrial Imagination",
+  "subtitle": "From Tool User to System Architect",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Orchestration changes the economics and organisation of AI-assisted creativity."
+    },
+    {
+      "type": "figure",
+      "id": "industrial-imagination",
+      "dimension": "2d",
+      "src": "assets/figures/industrial-imagination.png",
+      "alt": "Industrial Imagination",
+      "caption": "Industrial Imagination — From Tool User to System Architect",
+      "explanation": "The creator becomes a system architect who specifies intent and structure while specialised computational agents perform the repetitive execution.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

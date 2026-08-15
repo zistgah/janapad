@@ -1,0 +1,25 @@
+{
+  "id": "ch-43",
+  "title": "Community Learning",
+  "subtitle": "From Feedback to Collective Intelligence",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The platform learns from the accumulated experience of creators."
+    },
+    {
+      "type": "figure",
+      "id": "community-learning",
+      "dimension": "2d",
+      "src": "assets/figures/community-learning.png",
+      "alt": "Community Learning",
+      "caption": "Community Learning — From Feedback to Collective Intelligence",
+      "explanation": "Successful combinations become observable patterns that can inform recommendations without reducing creativity to generic popularity metrics.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

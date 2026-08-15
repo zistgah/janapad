@@ -1,0 +1,25 @@
+{
+  "id": "ch-01",
+  "title": "The Humanesque Proposition",
+  "subtitle": "Sovereignty Belongs to the Sentient",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Humanesque begins with sovereignty of the sentient individual."
+    },
+    {
+      "type": "figure",
+      "id": "the-humanesque-proposition",
+      "dimension": "2d",
+      "src": "assets/figures/the-humanesque-proposition.png",
+      "alt": "The Humanesque Proposition",
+      "caption": "The Humanesque Proposition — Sovereignty Belongs to the Sentient",
+      "explanation": "The political and epistemic architecture extends beyond conventional human institutions toward a framework capable of including bioforms and synthetiforms.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

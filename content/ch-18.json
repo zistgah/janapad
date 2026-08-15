@@ -1,0 +1,25 @@
+{
+  "id": "ch-18",
+  "title": "Time Dilation",
+  "subtitle": "Temporal Experience Across States",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Different configurations may correspond to different experienced or computational temporal rates."
+    },
+    {
+      "type": "figure",
+      "id": "time-dilation",
+      "dimension": "2d",
+      "src": "assets/figures/time-dilation.png",
+      "alt": "Time Dilation",
+      "caption": "Time Dilation — Temporal Experience Across States",
+      "explanation": "The Humanesque temporal programme asks whether state-dependent temporal behaviour can be formally related to relativistic time dilation.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

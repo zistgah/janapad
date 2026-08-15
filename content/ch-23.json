@@ -1,0 +1,25 @@
+{
+  "id": "ch-23",
+  "title": "The Epistemic Realms",
+  "subtitle": "Knowledge as a Structured Landscape",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Humanesque knowledge is organised into interconnected epistemic realms."
+    },
+    {
+      "type": "figure",
+      "id": "the-epistemic-realms",
+      "dimension": "2d",
+      "src": "assets/figures/the-epistemic-realms.png",
+      "alt": "The Epistemic Realms",
+      "caption": "The Epistemic Realms — Knowledge as a Structured Landscape",
+      "explanation": "The realms provide a vocabulary for moving from individual cognition through language, computation, society, civilization and planetary questions.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ch-05",
+  "title": "The Journey Continues",
+  "subtitle": "From Conceptual Architecture to Execution",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The conceptual phase reaches sufficient maturity for implementation."
+    },
+    {
+      "type": "figure",
+      "id": "the-journey-continues",
+      "dimension": "2d",
+      "src": "assets/figures/the-journey-continues.png",
+      "alt": "The Journey Continues",
+      "caption": "The Journey Continues — From Conceptual Architecture to Execution",
+      "explanation": "The project now moves from mapping and theorising toward formalisation, prototyping, experimentation, measurement and verification.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

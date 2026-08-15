@@ -1,0 +1,25 @@
+{
+  "id": "ch-35",
+  "title": "Character Archetypes",
+  "subtitle": "Agents Within the Narrative",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Characters operationalise the narrative structure."
+    },
+    {
+      "type": "figure",
+      "id": "character-archetypes",
+      "dimension": "2d",
+      "src": "assets/figures/character-archetypes.png",
+      "alt": "Character Archetypes",
+      "caption": "Character Archetypes — Agents Within the Narrative",
+      "explanation": "Seeker, Mentor, Ally, Disruptor, Shadow and Gatekeeper provide reusable functional roles whose concrete expression changes with context.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

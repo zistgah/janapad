@@ -1,0 +1,25 @@
+{
+  "id": "ch-28",
+  "title": "Knowledge as Infrastructure",
+  "subtitle": "From Ideas to Executable Systems",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Knowledge becomes infrastructure when concepts can be formalised and executed."
+    },
+    {
+      "type": "figure",
+      "id": "knowledge-as-infrastructure",
+      "dimension": "2d",
+      "src": "assets/figures/knowledge-as-infrastructure.png",
+      "alt": "Knowledge as Infrastructure",
+      "caption": "Knowledge as Infrastructure — From Ideas to Executable Systems",
+      "explanation": "The Humanesque programme repeatedly converts philosophical propositions into computational architectures, verification systems and usable public tools.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ch-37",
+  "title": "From Text to Media",
+  "subtitle": "One Spine, Many Modalities",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The same creative spine can be transformed into multiple media."
+    },
+    {
+      "type": "figure",
+      "id": "from-text-to-media",
+      "dimension": "2d",
+      "src": "assets/figures/from-text-to-media.png",
+      "alt": "From Text to Media",
+      "caption": "From Text to Media — One Spine, Many Modalities",
+      "explanation": "A story may become a novel, play, screenplay, image sequence, song, audio work, animation or film through modality-specific execution stages.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ch-32",
+  "title": "Creative Algebra",
+  "subtitle": "S = f(P,F,A,C)",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Creative generation can be parameterised as a combinatorial function."
+    },
+    {
+      "type": "figure",
+      "id": "creative-algebra",
+      "dimension": "2d",
+      "src": "assets/figures/creative-algebra.png",
+      "alt": "Creative Algebra",
+      "caption": "Creative Algebra — S = f(P,F,A,C)",
+      "explanation": "Plot archetype, narrative framework, character architecture and cultural context become variables that can be recombined to produce different creative trajectories.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

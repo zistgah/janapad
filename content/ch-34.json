@@ -1,0 +1,25 @@
+{
+  "id": "ch-34",
+  "title": "Cultural Context Vectors",
+  "subtitle": "The Cultural Dimension of Creativity",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Creativity requires more than universal plot structures."
+    },
+    {
+      "type": "figure",
+      "id": "cultural-context-vectors",
+      "dimension": "2d",
+      "src": "assets/figures/cultural-context-vectors.png",
+      "alt": "Cultural Context Vectors",
+      "caption": "Cultural Context Vectors — The Cultural Dimension of Creativity",
+      "explanation": "Cultural, linguistic, aesthetic and societal parameters allow the same structural narrative to become radically different across traditions.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

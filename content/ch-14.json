@@ -1,0 +1,25 @@
+{
+  "id": "ch-14",
+  "title": "PEDLER Pilots",
+  "subtitle": "Humans Watching the Walk",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Bio brains may serve as natural supervisory agents for PEDLER-like walks."
+    },
+    {
+      "type": "figure",
+      "id": "pedler-pilots",
+      "dimension": "2d",
+      "src": "assets/figures/pedler-pilots.png",
+      "alt": "PEDLER Pilots",
+      "caption": "PEDLER Pilots — Humans Watching the Walk",
+      "explanation": "Trained human pilots could maintain a watch over anticipated trajectories and intervene before or during execution, exploiting biological strengths in temporal and contextual processing.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ch-22",
+  "title": "Space and State",
+  "subtitle": "From Euclidean Space to Configuration Space",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Space itself is not exhausted by simple Euclidean intuition."
+    },
+    {
+      "type": "figure",
+      "id": "space-and-state",
+      "dimension": "2d",
+      "src": "assets/figures/space-and-state.png",
+      "alt": "Space and State",
+      "caption": "Space and State — From Euclidean Space to Configuration Space",
+      "explanation": "The move from Euclidean spaces toward Hilbert and other abstract spaces parallels the move from clock-time toward configuration-based temporal descriptions.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

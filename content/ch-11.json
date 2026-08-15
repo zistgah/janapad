@@ -1,0 +1,25 @@
+{
+  "id": "ch-11",
+  "title": "Inclination",
+  "subtitle": "The Gradient of PEDLER Choice",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Inclination gives PEDLER a directional quantity rather than a binary decision."
+    },
+    {
+      "type": "figure",
+      "id": "inclination",
+      "dimension": "2d",
+      "src": "assets/figures/inclination.png",
+      "alt": "Inclination",
+      "caption": "Inclination — The Gradient of PEDLER Choice",
+      "explanation": "The concept connects the legal language of being inclined or not inclined with the mathematical notion of gradient and directional movement through a state space.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

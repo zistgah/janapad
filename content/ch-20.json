@@ -1,0 +1,25 @@
+{
+  "id": "ch-20",
+  "title": "Event Horizon",
+  "subtitle": "A Boundary of Accessible Configuration",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The event horizon can be explored as a boundary in accessible configuration space."
+    },
+    {
+      "type": "figure",
+      "id": "event-horizon",
+      "dimension": "2d",
+      "src": "assets/figures/event-horizon.png",
+      "alt": "Event Horizon",
+      "caption": "Event Horizon — A Boundary of Accessible Configuration",
+      "explanation": "Within the speculative Humanesque programme, black-hole horizons provide a stringent physical case for examining the relationship between configuration, observability and time.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

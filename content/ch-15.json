@@ -1,0 +1,25 @@
+{
+  "id": "ch-15",
+  "title": "Human–Machine Co-Cognition",
+  "subtitle": "Bioform and Synthetiform Agency",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Human and machine cognition can participate in a common execution architecture."
+    },
+    {
+      "type": "figure",
+      "id": "human-machine-co-cognition",
+      "dimension": "2d",
+      "src": "assets/figures/human-machine-co-cognition.png",
+      "alt": "Human–Machine Co-Cognition",
+      "caption": "Human–Machine Co-Cognition — Bioform and Synthetiform Agency",
+      "explanation": "PEDLER provides a possible bridge between biological cognitive strengths and synthetic computational execution without requiring either substrate to become the other.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}

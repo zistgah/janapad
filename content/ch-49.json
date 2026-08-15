@@ -1,0 +1,25 @@
+{
+  "id": "ch-49",
+  "title": "The State Problem",
+  "subtitle": "Why the Cycler Exists",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Individual AI calls do not inherently maintain the complete state of a long creative trajectory."
+    },
+    {
+      "type": "figure",
+      "id": "the-state-problem",
+      "dimension": "2d",
+      "src": "assets/figures/the-state-problem.png",
+      "alt": "The State Problem",
+      "caption": "The State Problem — Why the Cycler Exists",
+      "explanation": "The Cycler supplies the external state and context management needed to preserve continuity across multiple execution stages.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": ""
+      }
+    }
+  ]
+}
